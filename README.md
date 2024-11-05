@@ -9,6 +9,8 @@ Label:
 
 
 Column 1: Depth of Ice Core in meters determined using Electrical Conducitvity Method(ECM)
+
+
 Column 2: Refractive Index values as determined using the density corresponding to the depth values with the relation "n= 1 +.845*rho"
 
 
@@ -34,6 +36,8 @@ File Name: a1data.txt
 Label: 
 
 Column 1: Depth of Ice Core in meters determined using Electrical Conducitvity Method(ECM)
+
+
 Column 2: Refractive Index values as determined using the density corresponding to the depth values with the relation "n= 1 +.845*rho"
 
 Description:
